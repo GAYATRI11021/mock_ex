@@ -5,10 +5,10 @@
 Code for FIFO: 
 import java.io.BufferedReader; 
 import java.io.IOException;
- import java.io.InputStreamReader; 
-public class FIFO { public static void main(String[] args) throws IOException { 
+import java.io.InputStreamReader; 
+public class FI { public static void main(String[] args) throws IOException { 
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
- int frames, pointer = 0, hit = 0, fault = 0,ref_len; 
+int frames, pointer = 0, hit = 0, fault = 0,ref_len; 
 int buffer[]; 
 int reference[]; 
 int mem_layout[][]; 
