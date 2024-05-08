@@ -1,8 +1,3 @@
-//Write a program to simulate Page replacement algorithm:
-//First In First Out (FIFO)
-//The LRU Page Replacement
-
-Code for FIFO: 
 import java.io.BufferedReader; 
 import java.io.IOException;
 import java.io.InputStreamReader; 
